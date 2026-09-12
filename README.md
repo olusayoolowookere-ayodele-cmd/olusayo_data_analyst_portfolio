@@ -1,6 +1,3 @@
-Below is a refined, professional **portfolio version** of your report. I removed repetitive explanations, unnecessary assumptions, raw ASCII tables, instructional prompts, and overly detailed technical commentary while retaining the core project purpose, methodology, results, insights, and recommendations. The portfolio is based strictly on the supplied report. 
-
-```markdown
 # Automated Student Report Card Generator
 ## Data Analytics Project Portfolio
 
