@@ -317,15 +317,4 @@ By using formula-driven automation, the system can retrieve student information,
 The project demonstrates the value of data analytics and spreadsheet automation in educational administration. With further development, the system could be expanded into a centralized reporting and analytics platform capable of supporting multiple students, classes, and school-wide performance monitoring.
 ```
 
-### What was removed
-
-* Repeated statements and duplicated objectives.
-* Unsupported assumptions presented as major findings.
-* Excessive references to specific spreadsheet cell colors and instructions.
-* Raw ASCII tables.
-* Redundant technical explanations.
-* The unnecessary closing prompt.
-* Overly detailed data dictionary descriptions that are not essential for a portfolio.
-
-This version is now more suitable for a **Data Analyst portfolio, GitHub README, LinkedIn project showcase, or professional project documentation**.
 
